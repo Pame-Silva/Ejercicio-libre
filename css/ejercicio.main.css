@@ -1,4 +1,8 @@
 /*HEADER*/
+body {
+	background-color: #D9D487;
+}
+
 h3 {
 	margin-right: 100px;
 }
@@ -6,13 +10,7 @@ h3 {
 h1 {
 	font-size: 100px;
 }
-
 /*FIN HEADER*/
-
-/*OTROS JUEGOS*/
-
-/*FIN*/
-
 
 /*IMAGEN DE FONDO*/
 .wallpapers-8 {
@@ -20,4 +18,40 @@ h1 {
 	background-size: cover;
 	max-width: 100%;
 }
+
+.wallpapers-8 h1 {
+	color: #8A2525;
+	font-family: Helvetica;
+	font-size: 60px;
+	padding: 200px;
+	margin-bottom: 60px;
+	margin-left: 0%;
+}
 /*FIN*/
+
+/*GALERIA IMAGENES*/
+.more-games h2 {
+	color: #8A2525;
+	font-size: 60px;
+	text-align: center;
+}
+
+.more-games img {
+	width: 500px;
+	height: 300px;
+	padding-left: 60px;
+	padding-top: 20px
+}
+/*FIN*/
+
+/*MAPA UBICACION*/
+.ubicacion p {
+	font-family: Helvetica;
+	font-size: 22px;
+}
+
+.call {
+	color: #5167A6;
+	font-size: 20px;
+}
+/*FIN*2
